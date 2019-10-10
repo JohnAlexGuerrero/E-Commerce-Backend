@@ -1,7 +1,7 @@
 # E-Commerce-Backend
 Turing e-commerce back-end task
 ## Prerequisites
-Install <b>Node</b> , A JavaScript runtime environment : https://nodejs.org/en/download/
+Install <b>Node</b> , A JavaScript runtime environment : <b>https://nodejs.org/en/download/</b>
 ## Installation
 Use <b>Node Package Manager</b> to install following modules Make a packge.json file by typing the following commands :
 
